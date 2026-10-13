@@ -1,0 +1,6 @@
+# Escrito contra la API de LlamaIndex 0.11.x (ReActAgent.from_tools).
+llama-index-core
+llama-index-llms-openai
+llama-index-embeddings-openai
+pandas
+python-dotenv
